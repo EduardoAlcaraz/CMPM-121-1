@@ -1,7 +1,9 @@
 # CMPM-121-1
-1 paragraph description of your scene that answers these questions:
-What is your scene?<br />
-What kinds of objects did you include?
-Did anything inspire you?
-What is the main character in this scene?
-List of each object in your scene and how it was acquired (necessary for assigning points)
+My scene is of a forest with the player character camping. There is a campfire and various foods while being surrounded by the woods.<br />
+The objects I included are various trees, flowers, shrubs, rocks, and camping gear. <br />
+My scene was inspired by my love for nature and how everything is better when trees are included. <br />
+The main character is a free asset found on the UNITY STORE and is a prototype robot guy. <br />
+<br />
+Objects:<br />
+
+
