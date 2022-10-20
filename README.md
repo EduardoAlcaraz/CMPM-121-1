@@ -31,6 +31,7 @@ Apple : UNITY STORE, https://assetstore.unity.com/packages/3d/props/poly-lite-su
 Bonfire : UNITY STORE, https://assetstore.unity.com/packages/3d/props/poly-lite-survival-collection-220452<br />
 Meat type1 : UNITY STORE, https://assetstore.unity.com/packages/3d/props/poly-lite-survival-collection-220452<br />
 Meat type2 : UNITY STORE, https://assetstore.unity.com/packages/3d/props/poly-lite-survival-collection-220452<br />
+Log Laying : UNITY STORE, https://assetstore.unity.com/packages/3d/props/poly-lite-survival-collection-220452<br />
 Orange : UNITY STORE, https://assetstore.unity.com/packages/3d/props/poly-lite-survival-collection-220452<br />
 Pan : UNITY STORE, https://assetstore.unity.com/packages/3d/props/poly-lite-survival-collection-220452<br />
 Fishing Rod : UNITY STORE, https://assetstore.unity.com/packages/3d/props/poly-lite-survival-collection-220452<br />
