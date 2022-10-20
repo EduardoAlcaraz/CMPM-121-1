@@ -1,6 +1,6 @@
 # CMPM-121-1
 1 paragraph description of your scene that answers these questions:
-What is your scene?\n
+What is your scene?<br />
 What kinds of objects did you include?
 Did anything inspire you?
 What is the main character in this scene?
